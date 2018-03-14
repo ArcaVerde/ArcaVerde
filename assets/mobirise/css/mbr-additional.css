@@ -2074,6 +2074,10 @@ body {
 .cid-qMgjI1ASmf .mbr-section-subtitle {
   letter-spacing: .2rem;
 }
+.cid-qMgjI1ASmf .mbr-text,
+.cid-qMgjI1ASmf .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-qLDiu2Brn1 .navbar {
   padding: .5rem 0;
   background: #ffffff;
