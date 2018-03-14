@@ -2068,44 +2068,11 @@ body {
 .cid-qLDeDjL0MP .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qLDTLymonp {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-6-1620x1080.jpg");
+.cid-qMgjI1ASmf {
+  background-image: url("../../../assets/images/mbr-1628x1080.jpg");
 }
-.cid-qLDTLymonp .card-img {
-  background-color: #fff;
-}
-.cid-qLDTLymonp .card-box {
-  background-color: #ffffff;
-  padding: 2rem;
-}
-.cid-qLDTLymonp h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-qLDTLymonp p {
-  text-align: left;
-}
-.cid-qLDTLymonp .mbr-text {
-  color: #767676;
-}
-.cid-qLDTLymonp .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-qLDTLymonp .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
-}
-@media (min-width: 992px) {
-  .cid-qLDTLymonp .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-  }
+.cid-qMgjI1ASmf .mbr-section-subtitle {
+  letter-spacing: .2rem;
 }
 .cid-qLDiu2Brn1 .navbar {
   padding: .5rem 0;
@@ -3821,29 +3788,25 @@ body {
 .cid-qLDeDjL0MP .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-qLDYhMWtW1 {
-  background-image: url("../../../assets/images/mbr-1625x1080.jpg");
+.cid-qMglAfrDKn {
+  background-image: url("../../../assets/images/mbr-7-1620x1080.jpg");
 }
-.cid-qLDYhMWtW1 h1 {
+.cid-qMglAfrDKn h1 {
   color: #616161;
 }
-.cid-qLDYhMWtW1 h2,
-.cid-qLDYhMWtW1 h3,
-.cid-qLDYhMWtW1 p {
+.cid-qMglAfrDKn h2,
+.cid-qMglAfrDKn h3,
+.cid-qMglAfrDKn p {
   color: #767676;
 }
-.cid-qLDYhMWtW1 .mbr-section-subtitle {
+.cid-qMglAfrDKn .mbr-section-subtitle {
   font-style: italic;
 }
-.cid-qLDYhMWtW1 P {
+.cid-qMglAfrDKn H3 {
   color: #ffffff;
 }
-.cid-qLDYhMWtW1 H3 {
-  color: #767676;
-}
-.cid-qLDYhMWtW1 H1 {
-  color: #cccccc;
-  text-align: center;
+.cid-qMglAfrDKn P {
+  color: #ffffff;
 }
 .cid-qLDeDjL0MP .navbar {
   padding: .5rem 0;
@@ -4235,5 +4198,12 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-qLDUx6RExC {
-  background-image: url("../../../assets/images/mbr-778x1080.jpg");
+  background-image: url("../../../assets/images/mbr-8-1620x1080.jpg");
+}
+.cid-qLDUx6RExC .mbr-text,
+.cid-qLDUx6RExC .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-qLDUx6RExC H1 {
+  color: #ffffff;
 }
